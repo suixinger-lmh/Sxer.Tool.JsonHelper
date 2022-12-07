@@ -1,0 +1,9 @@
+{
+  "name": "com.sxer.tool.jsonhelper",
+  "displayName": "JsonHelper",
+  "version": "0.0.1",
+  "unity": "2019.4",
+  "description": "Json File Tool.",
+  "dependencies": {
+  }
+}
